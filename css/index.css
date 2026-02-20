@@ -1,0 +1,14 @@
+.tip{
+    background=color #0066Ff 
+    color: #f0f0f0
+} 
+     
+.example_div{
+    background=color #d94c4c 
+    color: #333
+}
+
+.example_span{
+    background=color #0066FF 
+    color: #333
+}
